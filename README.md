@@ -10,8 +10,8 @@
 3. Make sure you have created your own application in https://discord.com/developers/applications
 4. Create a file named config.json and then put in the bot's token\
     Example\
-    { \
+        {\
         "token" : "YourTokenGoesHere"\
-    }\
+        }
 5. Run the bot 
     You can run the bot with either "npm start" or "node ."
