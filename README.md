@@ -3,9 +3,9 @@
  # Project Requirements
  node.js v.16
 # Installation and Setup
-1. Clone the project
+1. Clone the project\
     git clone https://github.com/WynnKunGz/Citicraft-Discord-Bot-v.2.git
-2. Install the required dependencies defined in the package.json file
+2. Install the required dependencies defined in the package.json file\
     npm install
 3. Make sure you have created your own application in https://discord.com/developers/applications
 4. Create a file named config.json and then put in the bot's token\
