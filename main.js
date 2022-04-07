@@ -41,6 +41,7 @@ client.on("message", async message => {
     if(message.content.startsWith(prefix)) {
         const args = message.content.slice(prefix.length).trim().split(/ +/);
         const command = args.shift().toLowerCase();
+        
         if(!client.commands.has(command)) return;
         
         try {
