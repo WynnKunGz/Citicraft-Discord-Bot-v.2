@@ -1,6 +1,6 @@
 {
   "name": "citicraft-discord-bot",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Citicraft Discord Bot",
   "main": "main.js",
   "scripts": {
