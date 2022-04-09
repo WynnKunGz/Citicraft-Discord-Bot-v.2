@@ -19,7 +19,8 @@ module.exports = {
             { name : '31. tutorials', value : 'Modding Tutorials', inline : true},
             { name : '32. vehiclegithub', value : 'Vehicle Mod\'s GitHub', inline : true},
             { name : '33. vehicletrello', value : 'Vehicle Mod\'s Trello Board', inline : true},
-            { name : '34. java', value : 'Shows Information about Java Versions', inline : true}
+            { name : '34. java', value : 'Information about Java Versions', inline : true},
+            { name : '35. serverinfo', value : 'Server Information', inline : true}
         )
         .setTimestamp()
         .setFooter(`Citicraft Discord Bot | Version ${version} | By WynnKunGz`)
